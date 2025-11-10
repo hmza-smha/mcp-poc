@@ -1,0 +1,10 @@
+# MCP Core
+mcp
+
+# HTTP/SSE Transport
+starlette
+uvicorn
+httpx
+sse-starlette
+
+fastmcp
